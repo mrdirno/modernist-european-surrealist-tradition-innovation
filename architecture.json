@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-surrealist-tradition-innovation",
+  "title": "The City Dreams of Teeth",
+  "tagline": "A woman journeys to a Paris of warped realities, where her uncle has locked away a silence that threatens to consume the city's very foundations.",
+  "target_words": 69833,
+  "actual_words": 69833,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Metabolism of Modernity",
+    "The Architecture of Memory",
+    "The Translation of Silence",
+    "The Haunting of Inheritance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Metabolic Certainty of Wheels",
+      "words": 6348
+    },
+    {
+      "ch": 2,
+      "title": "The B-Flat of the City's Foundations",
+      "words": 6348
+    },
+    {
+      "ch": 3,
+      "title": "A Study in Grey Tones",
+      "words": 6348
+    },
+    {
+      "ch": 4,
+      "title": "The Machine That Forgot Its Purpose",
+      "words": 6348
+    },
+    {
+      "ch": 5,
+      "title": "The City Dreams of Teeth",
+      "words": 6348
+    },
+    {
+      "ch": 6,
+      "title": "A Fossil of Silence",
+      "words": 6348
+    },
+    {
+      "ch": 7,
+      "title": "Digesting the Dark",
+      "words": 6348
+    },
+    {
+      "ch": 8,
+      "title": "The Infection Along the Seam",
+      "words": 6348
+    },
+    {
+      "ch": 9,
+      "title": "A Suture Through a Dreaming Body",
+      "words": 6348
+    },
+    {
+      "ch": 10,
+      "title": "The Kettle Sings the Morning",
+      "words": 6348
+    },
+    {
+      "ch": 11,
+      "title": "The Phantom Sensation in the Bones",
+      "words": 6348
+    }
+  ]
+}
